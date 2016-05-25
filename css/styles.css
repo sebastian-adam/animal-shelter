@@ -1,3 +1,36 @@
+body {
+  font-family: arial;
+  background-image: radial-gradient(silver, black);
+}
+
+
+h1 {
+  font-family: 'Berkshire Swash', Arial, serif;
+  font-weight: bold;
+  color: #30ab7d;
+  text-align: center;
+  font-size: 60px;
+  background-image: linear-gradient(red, orange);
+}
+
+h3 {
+  font-family: 'Berkshire Swash', serif;
+  color: green;
+}
+
+p {
+  color: #ffc829;
+}
+
+.col2 p {
+  color: #ffa85a;
+}
+
+.wrapper h3 {
+  font-family: arial;
+  color: white;
+}
+
 .col1,
 .col2,
 .col3 {
